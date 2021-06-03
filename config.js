@@ -13,5 +13,5 @@ const CONFIG = {
     btnReply: 'Gửi cho Thành <3',
     reply: 'Thành luôn đẹp trai <33333333',
     mess: 'Thành biết mà 🥰. Yêu các bạn nhiều nhiều 😘😘',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/viettuan.ho.35' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
